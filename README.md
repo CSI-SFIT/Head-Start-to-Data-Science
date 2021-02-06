@@ -1,7 +1,7 @@
 # Machine-Learning-Workshop
 ## Collab Notebook Links:
-1. [Numpy Collab Notebook](https://colab.research.google.com/drive/1AOa2PyWcSzRYBw4CvX2d5lywl8_U304z?usp=sharing)
-2. [Pandas Collab Notebook](https://colab.research.google.com/drive/12AcLYSt6yW2khCBEfJ4n0ZTRqbwT216w?usp=sharing)
+1. [Numpy Collab Notebook](https://colab.research.google.com/drive/1lt1w-wB7gAAROdnw-UZ7qGX_Gw0XAhdu?usp=sharing)
+2. [Pandas Collab Notebook](https://colab.research.google.com/drive/1FfZZc6H4AbQyuUgs7vgCMylHrBnSoU6M?usp=sharing)
 3. Matplotlib:
     1. [Matplotlib Concepts Collab Notebook](https://colab.research.google.com/drive/1Oneno6TP6i_DgsCQ506oXj9uQnPrPfdj?usp=sharing)
     2. [Matplotlib Exercise Collab Notebook](https://colab.research.google.com/drive/1mSOmPtIqPylnd5sZoWXD8Jn-iscT346E?usp=sharing)
