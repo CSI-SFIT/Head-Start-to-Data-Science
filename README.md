@@ -19,13 +19,22 @@ This **Virtual Crash Course** features a **series of lessons, real-world case st
 **Leave your regressions behind** 🙈 and Let's [#makeIThappen](https://www.instagram.com/csi_sfit/) with Data Science :zap:
 
 _**Contents of the Workshop:**_
-☑️ [Domains in Data Science]()
-☑️ [Tools to train ML models]()
-☑️ [Numpy]()
-☑️ [Pandas ]()
-☑️ [Seaborn]()
+
+☑️ [Domains in Data Science](https://docs.google.com/presentation/d/1JzsQzMAZZik_Ynvoz4_jEQrkKTm412lYUNbQHy5clJY/edit?usp=sharing)
+
+☑️ [Tools to train ML models](https://docs.google.com/presentation/d/1JzsQzMAZZik_Ynvoz4_jEQrkKTm412lYUNbQHy5clJY/edit?usp=sharing)
+
+☑️ [Numpy](https://github.com/CSI-SFIT/Head-Start-to-Data-Science/tree/main/1-Numpy)
+
+☑️ [Pandas ](https://github.com/CSI-SFIT/Head-Start-to-Data-Science/tree/main/2-Pandas)
+
+☑️ [Matplotlib](https://github.com/CSI-SFIT/Head-Start-to-Data-Science/tree/main/3-Matplotlib)
+
+☑️ [Seaborn](https://github.com/CSI-SFIT/Head-Start-to-Data-Science/tree/main/4-Seaborn)
+
 ☑️ [Scikit-learn]()
-☑️ [3 Hands-on Projects]()
+
+☑️ [3 Hands-on Projects](https://github.com/CSI-SFIT/Head-Start-to-Data-Science/tree/main/5-Projects)
 
 <b>Workshop Speakers:</b>
 <table>
