@@ -102,7 +102,7 @@ If you don't know Python or are just a beginner, we recommend viewing these 💗
 
 **How to Contribute**
 ---
-1. Clone repo and create a new branch: `$ git checkout `.
+1. Clone repo and create a new branch: `$ git checkout https://github.com/CSI-SFIT/Head-Start-to-Data-Science`.
 2. Make changes and test.
 3. Submit Pull Request with comprehensive description of changes.
 
