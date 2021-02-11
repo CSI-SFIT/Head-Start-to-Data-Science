@@ -20,9 +20,9 @@ This **Virtual Crash Course** features a **series of lessons, real-world case st
 
 _**Contents of the Workshop:**_
 
-☑️ [Domains in Data Science](https://docs.google.com/presentation/d/1JzsQzMAZZik_Ynvoz4_jEQrkKTm412lYUNbQHy5clJY/edit?usp=sharing)
+☑️ [Domains in Data Science](https://docs.google.com/presentation/d/17YJosc_5cah28qWEpoHVlYLRF6451RVS7lcFeztvCa0/edit?usp=sharing)
 
-☑️ [Tools to train ML models](https://docs.google.com/presentation/d/1JzsQzMAZZik_Ynvoz4_jEQrkKTm412lYUNbQHy5clJY/edit?usp=sharing)
+☑️ [Tools to train ML models](https://docs.google.com/presentation/d/17YJosc_5cah28qWEpoHVlYLRF6451RVS7lcFeztvCa0/edit?usp=sharing)
 
 ☑️ [Numpy](https://github.com/CSI-SFIT/Head-Start-to-Data-Science/tree/main/1-Numpy)
 
