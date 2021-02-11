@@ -32,7 +32,7 @@ _**Contents of the Workshop:**_
 
 ☑️ [Seaborn](https://github.com/CSI-SFIT/Head-Start-to-Data-Science/tree/main/4-Seaborn)
 
-☑️ [Scikit-learn]()
+☑️ Scikit-learn
 
 ☑️ [3 Hands-on Projects](https://github.com/CSI-SFIT/Head-Start-to-Data-Science/tree/main/5-Projects)
 
