@@ -7,9 +7,9 @@
 </p>
 
 ## <a name="table-of-contents">Table of Contents</a>
-1. <a href="#Details of the workshop">🥰 Details of the workshop</a>
-2. <a href="#Prep for Prerequisites">🤓 Prep for Prerequisites</a>
-3. <a href="#Workshop Resources">🤩 Workshop Resources</a>
+1. 🥰<a href="#Details of the workshop"> Details of the workshop</a>
+2. 🤓<a href="#Prep for Prerequisites"> Prep for Prerequisites</a>
+3. 🤩<a href="#Workshop Resources"> Workshop Resources</a>
 ---
 ### <a name="Details of the workshop">1. Details of the workshop</a>
 Whether you’re just **learning to code** or you’re a **machine learning coder** already, this workshop will help you develop your skills and advance your projects. Your **first-class ticket** to the **most exciting career in data analysis**!
