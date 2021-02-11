@@ -63,7 +63,7 @@ _**Contents of the Workshop:**_
 ---
 ### <a name="Prep for Prerequisites">2. Prep for Prerequisites</a>
 
-If you don't know Python or are just a beginner, we recommend viewing these 💗**FREE** 💗 resources:
+If you don't know Python or are just a beginner, we recommend viewing these 💗 **FREE** 💗 resources:
 - [CSI SFIT Quick Python Guide](https://www.instagram.com/csi_sfit/guide/all-about-python/17852391890414392/?igshid=vumd6yq5esjr)
 - [CSI SFIT Beginners Guide to Python 101](https://github.com/CSI-SFIT/Beginners-Guide-to-Python-101)
 - [Python 4 hour Crash Course](https://youtu.be/rfscVS0vtbw)
