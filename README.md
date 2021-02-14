@@ -26,7 +26,7 @@ _**Contents of the Workshop:**_
 
 ☑️ [Numpy](https://github.com/CSI-SFIT/Head-Start-to-Data-Science/tree/main/1-Numpy)
 
-☑️ [Pandas ](https://github.com/CSI-SFIT/Head-Start-to-Data-Science/tree/main/2-Pandas)
+☑️ [Pandas](https://github.com/CSI-SFIT/Head-Start-to-Data-Science/tree/main/2-Pandas)
 
 ☑️ [Matplotlib](https://github.com/CSI-SFIT/Head-Start-to-Data-Science/tree/main/3-Matplotlib)
 
